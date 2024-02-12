@@ -103,11 +103,3 @@ To get a local copy of this project up and running on your machine, follow these
 ## Contributing
 
 I welcome contributions from the community to improve and expand this project. If you'd like to contribute, please contact me or fell free to use it the way you want to.
-
-## License
-
-This project is licensed under the [MIT License].
-
----
-
-Feel free to customize this README to better fit the specific details and features of your project. Happy coding! 🚀
