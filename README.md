@@ -30,7 +30,7 @@ Navigation throughout the website is intuitive and fluid, allowing users to effo
 ![Captura de tela 2024-02-13 013813](https://github.com/igor32648/nextjs-hotel/assets/92551032/797b57e9-f16e-453a-944b-9f1035134982)
 
 ### Rich Content Distribution: 
-Information is distributed to users in a fluid and elegant manner, ensuring an immersive and informative browsing experience. From vibrant images showcasing travel destinations to concise and engaging text providing essential details, our template delivers content in a visually appealing and accessible format.
+Information is distributed to users in a fluid and elegant manner, ensuring an immersive and informative browsing experience. From vibrant images showcasing travel destinations to concise and engaging text providing essential details, this template delivers content in a visually appealing and accessible format.
 
 ### Tailored User Experience: 
 Each aspect of the website is carefully crafted to enhance the user experience. Stylish headers and footers featuring custom logos provide brand identity, while interactive elements such as image sliders captivate users' attention and encourage engagement.
@@ -102,11 +102,11 @@ To get a local copy of this project up and running on your machine, follow these
 
 ## Contributing
 
-We welcome contributions from the community to improve and expand this project. If you'd like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
+I welcome contributions from the community to improve and expand this project. If you'd like to contribute, please contact me or fell free to use it the way you want to.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License].
 
 ---
 
